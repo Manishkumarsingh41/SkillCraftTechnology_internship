@@ -149,8 +149,15 @@ SkillCraftTechnology_internship/
 ├── SCT_DATA_SCIENCE_02.ipynb    # Road Accident Data Analysis
 ├── SCT_DATA_SCIENCE_03.ipynb    # Titanic Survival Prediction
 ├── SCT_DATA_SCIENCE_04.ipynb    # Bank Marketing Campaign Analysis
-└── README.md                     # Project documentation
+│
+├── README.md                     # Project documentation
+├── requirements.txt              # Python dependencies
+├── CONTRIBUTING.md               # Contribution guidelines
+├── LICENSE                       # MIT License
+└── .gitignore                    # Git ignore rules
 ```
+
+**Note:** Datasets are referenced from Kaggle and should be downloaded separately. Each notebook contains the dataset path information.
 
 ## 📊 Key Skills Demonstrated
 
