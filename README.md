@@ -171,7 +171,13 @@ SkillCraftTechnology_internship/
 
 ## 🤝 Contributing
 
-This repository showcases internship projects and is maintained for portfolio purposes. Feel free to fork and explore!
+This repository showcases internship projects and is maintained for portfolio purposes. Contributions, suggestions, and improvements are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Dataset Licensing:** The datasets used in these projects are from Kaggle and are subject to their respective licenses. Please refer to the individual Kaggle dataset pages for specific licensing information.
 
 ## 📧 Contact
 
@@ -179,4 +185,4 @@ For any queries or collaboration opportunities, please reach out through GitHub.
 
 ---
 
-**Note:** The datasets used in these projects are from Kaggle and are used for educational purposes. Please refer to the individual Kaggle dataset pages for licensing information.
+**Made with ❤️ during SkillCraft Technology Internship**
