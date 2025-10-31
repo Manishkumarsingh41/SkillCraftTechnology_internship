@@ -125,6 +125,11 @@ cd SkillCraftTechnology_internship
 
 2. Install required packages:
 ```bash
+pip install -r requirements.txt
+```
+
+Or install individually:
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn folium pywaffle jupyter
 ```
 
